@@ -18,7 +18,13 @@ The analysis was performed on a comprehensive dataset that includes information 
 I have shared the visualizations and interactive dashboards created during this analysis on my Tableau Public profile. You can explore the visualizations by visiting [my Tableau Public link](https://public.tableau.com/views/Dashboard_M1_Galih/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 
-I have designed the visualizations to be intuitive and informative for both enthusiasts and stakeholders interested in sustainable transportation.
+I have designed the visualizations to be intuitive and informative for both enthusiasts and stakeholders interested in sustainable transportation.  
+
+The conclusions that can be drawn from the data analysis are as follows:
+
+- The Bugatti brand is categorized as having the highest fuel consumption among car brands.
+- Each car type produced has specific specifications with varying fuel consumption levels. Based on the analysis, it is found that the Small Station Wagon type from the KIA brand is the most environmentally friendly among other cars.
+- Therefore, it is recommended that the government consider implementing emission restrictions in the future, prioritizing small-capacity cars (in terms of fuel consumption, cylinder type, and fuel type) to control the emission levels produced.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, feedback, or ideas for improving the analysis or visualizations, please feel free to reach out or submit a pull request. Let's collaborate and make this project even more insightful!
